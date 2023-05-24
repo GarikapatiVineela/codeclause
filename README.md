@@ -1,4 +1,4 @@
-# codeclause 
+# Codeclause 
 ## Python Internship 
 ### Task-1:URL SHORTENER:
 In this task , I create a short URL for Long URL by using Python,
